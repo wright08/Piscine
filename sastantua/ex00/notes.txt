@@ -1,0 +1,3 @@
+each section is 2 + n rows, where n is the section number
+the length of the section increases by one per row inside the section
+between sections the row difference changes by one every two sections, starting at two

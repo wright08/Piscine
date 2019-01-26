@@ -1,0 +1,2 @@
+instead of cloning a new board just keep track of the last column
+then do the valid position checking in that loop
